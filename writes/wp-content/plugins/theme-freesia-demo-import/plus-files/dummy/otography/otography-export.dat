@@ -1,0 +1,20 @@
+a:4:{s:8:"template";s:9:"otography";s:4:"mods";a:36:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:6:"menu-1";i:13;s:6:"menu-2";i:14;}s:18:"custom_css_post_id";i:31;s:27:"select_main_banner_category";s:6:"slider";s:18:"banner_button_text";s:12:"Explore More";s:11:"custom_logo";i:219;s:17:"banner_button_url";s:55:"https://demo.themefreesia.com/otography-plus/galleries/";s:15:"body-font-color";s:7:"#ffffff";s:19:"main-nav-font-color";s:7:"#ffffff";s:17:"header-font-color";s:7:"#ffffff";s:27:"side-social-icon-font-color";s:7:"#aaaaaa";s:16:"header_textcolor";s:6:"ffffff";s:19:"footer-end-bg-color";s:7:"#000000";s:19:"navigation-bg-color";s:0:"";s:13:"color-schemes";s:7:"#87ad58";s:29:"select_category_grid_template";s:12:"gallery-list";s:24:"custom-blog-theme-column";s:3:"two";s:21:"single-sidebar-layout";s:9:"fullwidth";s:13:"select-layout";s:5:"right";s:21:"front_page_categories";a:5:{i:0;s:1:"2";i:1;s:1:"3";i:2;s:1:"4";i:3;s:1:"5";i:4;s:1:"6";}s:18:"display-grid-title";s:22:"All The Latest Gallery";s:11:"show_banner";s:4:"blog";s:16:"background_color";s:6:"000000";s:15:"font-site-title";s:6:"Oswald";s:16:"sidebars_widgets";a:2:{s:4:"time";i:1550656635;s:4:"data";a:6:{s:19:"wp_inactive_widgets";a:0:{}s:8:"footer-1";a:0:{}s:8:"footer-2";a:0:{}s:8:"footer-3";a:0:{}s:8:"footer-4";a:0:{}s:9:"sidebar-1";a:5:{i:0;s:8:"search-2";i:1;s:13:"media_image-2";i:2;s:15:"media_gallery-2";i:3;s:17:"otography_posts-2";i:4;s:12:"categories-2";}}}s:22:"footer-widget-bg-color";s:7:"#000000";s:13:"footer-layout";s:1:"3";s:12:"excerpt_text";s:13:"Discover More";s:14:"excerpt_length";s:1:"0";s:14:"disable-author";b:1;s:12:"disable-date";b:1;s:16:"disable-cateogry";b:1;s:16:"disable-comments";b:1;s:19:"footer-edit-options";s:259:"You can change anything in this section with <a href="https://themefreesia.com/themes/otography/" title="Otography"><span>Otography Pro</span></a> <span> | </span>  By <a href="https://themefreesia.com/" title="Theme Spiral"><span>ThemeFreesia.com.</span></a>";s:17:"font-banner-title";s:11:"Great Vibes";s:25:"banner-content-title-size";i:50;}s:7:"options";a:9:{s:9:"site_icon";s:3:"219";s:43:"wpseo_titles[breadcrumbs-display-blog-page]";b:1;s:29:"wpseo_titles[breadcrumbs-sep]";s:7:"&raquo;";s:30:"wpseo_titles[breadcrumbs-home]";s:4:"Home";s:32:"wpseo_titles[breadcrumbs-prefix]";s:0:"";s:39:"wpseo_titles[breadcrumbs-archiveprefix]";s:12:"Archives for";s:38:"wpseo_titles[breadcrumbs-searchprefix]";s:16:"You searched for";s:34:"wpseo_titles[breadcrumbs-404crumb]";s:25:"Error 404: Page not found";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:385:"/* Main nav ________________________ */
+.is-sticky .main-navigation ul li a {
+    color: #333;
+}
+
+.is-sticky .search-toggle:before {
+	border-color: #333;
+}
+
+.is-sticky .search-toggle:after {
+	background-color: #333;
+}
+
+@media only screen and (max-width: 767px) { 
+	.is-sticky .toggle-bar, 
+	.is-sticky .toggle-bar:before, 
+	.is-sticky .toggle-bar:after {
+		background-color: #333;
+	}
+}";}

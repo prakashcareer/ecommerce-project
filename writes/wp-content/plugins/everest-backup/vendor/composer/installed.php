@@ -1,0 +1,52 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'type' => 'wordpress-plugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => '85e473aa82e76b188e33daa77eedb19e5e8ce304',
+        'name' => 'everest-backup/everest-backup',
+        'dev' => false,
+    ),
+    'versions' => array(
+        'everest-backup/everest-backup' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '85e473aa82e76b188e33daa77eedb19e5e8ce304',
+            'dev_requirement' => false,
+        ),
+        'nelexa/zip' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../nelexa/zip',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'reference' => 'db88a8d0515edda46e8b28d47ae64416b89d6308',
+            'dev_requirement' => false,
+        ),
+        'psr/http-message' => array(
+            'pretty_version' => '2.0',
+            'version' => '2.0.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../psr/http-message',
+            'aliases' => array(),
+            'reference' => '402d35bcb92c70c026d1a6a9883f06b2ead23d71',
+            'dev_requirement' => false,
+        ),
+        'symfony/finder' => array(
+            'pretty_version' => 'v6.4.0',
+            'version' => '6.4.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/finder',
+            'aliases' => array(),
+            'reference' => '11d736e97f116ac375a81f96e662911a34cd50ce',
+            'dev_requirement' => false,
+        ),
+    ),
+);

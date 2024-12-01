@@ -1,0 +1,19 @@
+
+---Downloaded files---
+The import files for: TrustNews Free were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://digitalpulseinsights.com
+Data file = /home/u858493842/domains/digitalpulseinsights.com/public_html/wp-content/plugins/theme-freesia-demo-import/files/dummy/trustnews/trustnews.xml
+Widget file = /home/u858493842/domains/digitalpulseinsights.com/public_html/wp-content/plugins/theme-freesia-demo-import/files/dummy/trustnews/trustnews-widgets.wie
+Customizer file = /home/u858493842/domains/digitalpulseinsights.com/public_html/wp-content/plugins/theme-freesia-demo-import/files/dummy/trustnews/trustnews-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
