@@ -29,7 +29,7 @@ This project is a fully functional eCommerce application built using **PHP**, **
 ## Technologies Used
 - **Language**: PHP  
 - **Database**: MySQL  
-- **Framework**: Laravel (optional for advanced features)  
+- **Framework**: Codeigniter 3 (optional for advanced features)  
 - **Frontend**: HTML5, CSS3, JavaScript  
 
 ---
